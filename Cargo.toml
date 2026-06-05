@@ -1,0 +1,6 @@
+[package]
+name = "ternary-popgen"
+version = "0.1.0"
+edition = "2021"
+description = "Population genetics for ternary {-1,0,+1} agents — Wright-Fisher, Moran process, fitness landscapes"
+license = "MIT"
